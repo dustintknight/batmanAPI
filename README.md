@@ -68,6 +68,8 @@ The app sends a request to a fictional API and displays results in the terminal.
 ## Project Structure
 
     batmanAPI.py/
+    ├──docs
+      ├──release_notes.md
     ├── README.md
     ├── batmanAPI.py
     └── requirements.txt
